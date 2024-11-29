@@ -1,2 +1,0 @@
-# SpaceOdyssey
-SpaceOdyssey
